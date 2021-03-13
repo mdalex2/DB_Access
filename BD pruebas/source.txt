@@ -1,0 +1,8 @@
+Loue se ha hecho:
+\\bhhdwwbuef63\Compartida\Miriam\Datacap
+
+las bases de datos:
+\\bhhdasbueh59\datacap\Juridica2   
+
+hacer un mini managent access, que se pueda leer 
+y generar una consulta en x base de datos (modificar dato o filas)

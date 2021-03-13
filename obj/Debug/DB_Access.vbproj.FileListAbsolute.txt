@@ -1,0 +1,22 @@
+C:\Users\C06319\source\repos\DB_Access\bin\Debug\DB_Access.exe.config
+C:\Users\C06319\source\repos\DB_Access\bin\Debug\DB_Access.exe
+C:\Users\C06319\source\repos\DB_Access\bin\Debug\DB_Access.pdb
+C:\Users\C06319\source\repos\DB_Access\bin\Debug\DB_Access.xml
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.Form1.resources
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.Resources.resources
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.vbproj.GenerateResource.cache
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.exe
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.xml
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.pdb
+C:\Users\C06319\source\repos\DB_Access\obj\Debug\DB_Access.vbprojAssemblyReference.cache
+C:\Users\Alexi\Google Drive\Publica\DB_Access\bin\Debug\DB_Access.exe.config
+C:\Users\Alexi\Google Drive\Publica\DB_Access\bin\Debug\DB_Access.exe
+C:\Users\Alexi\Google Drive\Publica\DB_Access\bin\Debug\DB_Access.pdb
+C:\Users\Alexi\Google Drive\Publica\DB_Access\bin\Debug\DB_Access.xml
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.Form1.resources
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.Resources.resources
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.vbproj.GenerateResource.cache
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.vbproj.CoreCompileInputs.cache
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.exe
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.xml
+C:\Users\Alexi\Google Drive\Publica\DB_Access\obj\Debug\DB_Access.pdb
